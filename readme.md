@@ -460,7 +460,7 @@ setTimeout(() => {
 
 ## 所有的源码
 
-由于代码还是挺长的，就不贴出来了，需要的请移步我的 [GitHub]()，或者私信我。
+由于代码还是挺长的，就不贴出来了，需要的请移步我的 [GitHub](https://github.com/SeptEarlyMorning/MyPromise)，或者私信我。
 
 ## 最后的话及测试
 
